@@ -1,8 +1,5 @@
 # RoBERTa on DocILE
 
-Field-type classification on the DocILE dataset using RoBERTa-base.
-Part of the *Document AI: RoBERTa vs LayoutLMv3* project.
-
 ---
 
 ## Project Structure
