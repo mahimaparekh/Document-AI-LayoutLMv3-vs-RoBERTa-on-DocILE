@@ -28,8 +28,8 @@ plot_loss.py       ← plot loss curves
 
 **1. Clone this repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/mahimaparekh/Document-AI-LayoutLMv3-vs-RoBERTa-on-DocILE.git
+cd Document-AI-LayoutLMv3-vs-RoBERTa-on-DocILE
 ```
 
 **2. Create a virtual environment and install dependencies**
